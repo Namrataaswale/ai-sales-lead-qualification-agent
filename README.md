@@ -1,4 +1,3 @@
-# ai-sales-lead-qualification-agent
 
 # AI Sales Lead Qualification Agent
 
